@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Limitlessun',
-  domain: 'sunjialiang.com',
+  domain: 'https://www.notion.so/limitlessun/Homepage-04788089f65549cb88d97cd7f55c2ced',
   author: 'Jialian Sun',
 
   // open graph metadata (optional)
